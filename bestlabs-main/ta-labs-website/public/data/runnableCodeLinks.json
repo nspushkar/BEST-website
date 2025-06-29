@@ -1,0 +1,35 @@
+{
+    "unit1": {
+      "lab1": "",
+      "lab2": "https://www.kaggle.com/code/pushkarns/lab-2",
+      "lab3": "https://www.kaggle.com/code/pushkarns/lab3-fin",
+      "lab4": "https://www.kaggle.com/code/pushkarns/lab4fhafkahahslfha",
+      "lab5": "https://www.kaggle.com/code/priyansh2904/lab-5?scriptVersionId=182441640",
+      "lab6": "https://www.kaggle.com/code/pushkarns/lab6new"
+    },
+    "unit2": {
+      "lab1": "https://swish.swi-prolog.org/p/BEST%20Lab%201.pl",
+      "lab2": "https://www.kaggle.com/code/percival224/unit-2-lab-2/notebook",
+      "lab3": "https://www.kaggle.com/code/priyanshsurana/unit-2-lab-3/settings?scriptVersionId=203129257",
+      "lab4": "/Unit2Lab4.pl",
+      "lab5": "https://www.kaggle.com/code/priyansh2904/unit2-lab5?scriptVersionId=203176215",
+      "lab6": "https://swish.swi-prolog.org/p/BEST%20Lab%206.pl"
+    },
+    "unit3": {
+      "lab1": "https://www.kaggle.com/code/pushkarns/unit-3-lab-1-final",
+      "lab2": "https://www.kaggle.com/code/priyansh2904/unit3lab2/notebook?scriptVersionId=183932297",
+      "lab3": "https://www.kaggle.com/code/adityahr700/unit-3-lab-3?scriptVersionId=184274226",
+      "lab4": "https://www.kaggle.com/code/percival224/unit-3-lab-4/notebook",
+      "lab5": "https://www.kaggle.com/code/priyanshsurana/unit-3-lab-5?scriptVersionId=184229319",
+      "lab6": "https://www.kaggle.com/code/adityahr700/unit-3-lab-6"
+    },
+    "unit4": {
+      "lab1": "/Unit4Lab1.py",
+      "lab2": "/unit4lab2.txt",
+      "lab3": "https://www.kaggle.com/code/percival224/unit-4-lab-3",
+      "lab4": "https://www.kaggle.com/code/priyanshsurana/chatbot/notebook",
+      "lab5": "/unit4lab5.txt",
+      "lab6": "https://www.kaggle.com/code/adityahr700/unit-4-lab-6"
+    }
+  }
+  
